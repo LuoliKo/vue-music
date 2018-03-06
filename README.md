@@ -1,21 +1,28 @@
 # vue-music
 
-> A Vue.js project
-
 ## Build Setup
 
 ``` bash
+# clone front end project
+git clone https://github.com/LuoliKo/vue-music.git
+
+cd vue-music
+
 # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
 npm run dev
 
-# build for production with minification
-npm run build
+# clone back end project
+git clone https://github.com/LuoliKo/VueMusicApi.git
 
-# build for production and view the bundle analyzer report
-npm run build --report
+cd VueMusicApi
+
+# install dependencies
+npm install
+
+node app.js
+
+# 访问localhost：8080即可
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
