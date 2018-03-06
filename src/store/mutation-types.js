@@ -1,0 +1,23 @@
+export const SELECT_SHEET = 'SELECT_SHEET';
+
+export const SET_PLAYING_STATE = 'SET_PLAYING_STATE';
+
+export const SET_SCREEN_STATE = 'SET_SCREEN_STATE';
+
+export const SET_PLAYLIST = 'SET_PLAYLIST';
+
+export const SET_SEQUENCE_LIST = 'SET_SEQUENCE_LIST';
+
+export const SET_PLAY_MODE = 'SET_PLAY_MODE';
+
+export const SET_CURRENT_INDEX = 'SET_CURRENT_INDEX';
+
+export const SET_MORE_MENU = 'SET_MORE_MENU';
+
+export const SET_LIKE_SONGS = 'SET_LIKE_SONGS';
+
+export const SET_COLLECT_SHEETS = 'SET_COLLECT_SHEETS';
+
+export const SET_PLAY_HISTORY = 'SET_PLAY_HISTORY';
+
+export const SET_SEARCH_HISTORY = 'SET_SEARCH_HISTORY';
